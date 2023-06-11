@@ -1,6 +1,6 @@
 A BBQ Script for QBCore Framework
 Please make sure u use the latest dependencies in order for this to work.
-This Job has been tested on the latest build as of 12/06/2022.
+This script has been tested on the latest build as of 12/06/2022.
 
 If not for @oosayeroo, this script wouldnt have happened. This is a recreation of some sort of his script/ base of his script.
 
