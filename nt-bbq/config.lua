@@ -12,7 +12,7 @@ Config = {
     --     2513000025,
     -- },
 
-    EnableFuelSystem = true, --if false then fuel will stay 100% all time
+    EnableFuelSystem = false, --if false then fuel will stay 100% all time
     FuelItem = 'weapon_petrolcan', --change to whatever you want (uses the whole item to refuel at the moment)
     FuelingTime = 10,
     RemoveItemOnPlace = false, --change this to true to make the item be removed when placing and given when picking up. false may fix some issues with people losing items through restart
